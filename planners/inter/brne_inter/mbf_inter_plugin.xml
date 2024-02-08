@@ -1,0 +1,8 @@
+<library path="lib/libbrne_inter">
+    <class name="brne_inter/BrneInter" type="brne_inter::BrneInter"
+        base_class_type="mbf_costmap_core::CostmapInter">
+        <description>
+            An intermediate planner that acts as an interface to the Bayes Rule Nash Equilibrium (BRNE) Social Navigation algorithm.
+        </description>
+    </class>
+</library>
